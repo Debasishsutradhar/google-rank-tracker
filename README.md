@@ -25,7 +25,7 @@ Feel free to contribute, enhance, or customize this tool as needed. If you disco
 <h2>License </h2>
 This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
 
-<<<<<<< HEAD
+
 <h2>screenshot</h2>
 
 <h3>image1</h3>
