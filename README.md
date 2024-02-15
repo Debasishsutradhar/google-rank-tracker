@@ -24,3 +24,9 @@ Feel free to contribute, enhance, or customize this tool as needed. If you disco
 
 <h2>License </h2>
 This project is licensed under the MIT License. You can find the full license text in the LICENSE file.
+
+
+
+<h2>screenshot</h2>
+![image](https://github.com/Debasishsutradhar/google-rank-tracker/assets/160099940/df57f72e-74a1-49dc-a533-4f540c6b6e88)
+
