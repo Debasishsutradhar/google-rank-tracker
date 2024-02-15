@@ -28,5 +28,5 @@ This project is licensed under the MIT License. You can find the full license te
 
 
 <h2>screenshot</h2>
-![image](https://github.com/Debasishsutradhar/google-rank-tracker/assets/160099940/df57f72e-74a1-49dc-a533-4f540c6b6e88)
+https://github.com/Debasishsutradhar/google-rank-tracker/assets/160099940/df57f72e-74a1-49dc-a533-4f540c6b6e88
 
