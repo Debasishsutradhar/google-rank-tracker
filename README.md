@@ -15,8 +15,8 @@ View Rankings: The tool will display the search rankings of websites for the des
 Suppose you want to track the rankings for the following keywords:
 
 <h3> SEO tools </h3>
-<h3> “Digital marketing” </h3>
- <h3> “Web analytics” </h3>
+<h3> Digital marketing </h3>
+<h3> Web analytics </h3>
 Run the tool with these keywords, and it will provide the corresponding rankings.
 
 <h2> Contributing </h2>
