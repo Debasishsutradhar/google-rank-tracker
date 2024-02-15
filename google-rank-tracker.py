@@ -33,10 +33,10 @@ def get_related_sites(keyword, num_results=30):
     return related_sites
 
 # Replace 'your_keyword' with the specific keyword you're interested in
-keyword_for_search = 'make money online'
+keyword_for_search = 'enter your keyword'
 
 # Add related terms to the search query
-related_terms = ['related_term1', 'related_term2']  # Add more terms as needed
+related_terms = ['enter your related_term-1', 'enter your related_term-2']  # Add more terms as needed
 
 # Combine the main keyword with related terms for a broader search
 combined_query = f"{keyword_for_search} {' '.join(related_terms)}"
